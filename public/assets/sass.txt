@@ -1,0 +1,1 @@
+sass --watch E:\SWP391_client\public\assets\scss\main.scss:E:\SWP391_client\public\assets\scss\main.scss
